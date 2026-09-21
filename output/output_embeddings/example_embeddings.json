@@ -1,0 +1,22 @@
+{
+  "source_file": "review.md",
+  "data_folder": "unstructured",
+  "doc_sensitivity": "interno",
+  "doc_type": "meetings",
+  "doc_extension": ".md",
+  "resultado": [
+    {
+      "texto": "Ata de ReuniãoTech",
+      "embedding": [
+        -0.003261566162109375,
+        0.003765106201171875
+      ],
+      "metadata": {
+        "sensitivity": "interno",
+        "doc_type": "meetings",
+        "chunk_id": "c2a3a31b11d647138d9e3cea36be195a",
+        "file_name": "review_db.md"
+      }
+    }
+  ]
+}

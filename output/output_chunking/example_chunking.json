@@ -1,0 +1,19 @@
+{
+  "source_file": "product.md",
+  "data_folder": "unstructured",
+  "doc_sensitivity": "interno",
+  "doc_type": "meetings",
+  "doc_extension": ".md",
+  "resultado": [
+    {
+      "texto": "",
+      "section": "Ata de Reunião",
+      "metadata": {
+        "sensitivity": "interno",
+        "doc_type": "meetings",
+        "chunk_id": "56929326dbaf4e2bbc09b30481f7dd7d",
+        "file_name": "product.md"
+      }
+    }
+  ]
+}
